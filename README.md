@@ -17,22 +17,24 @@
 - [ ] Isomatte https://bit.ly/2Kpq0Tx
 
 - [x] Wasserflasche(n) (2l) https://bit.ly/2NS1AEx
-- [ ] Becher
-- [x] kubek do gotowania https://bit.ly/2QinPoB
-- [x] dodatkowy kubek https://bit.ly/2rHUlWN
-- [ ] kuchenka https://bit.ly/2qYkP5X
-- [ ] łyżka https://bit.ly/2CJPHK6
+- [x] Becher, Becher zum Kochen (zusätzlich)
+- [ ] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
+- [ ] Löffel https://bit.ly/2CJPHK6
 
-- [ ] odzież odpowiednia do warunków https://bit.ly/379yrMA
+- [ ] Kleidung (entsprechend zum Wetter) https://bit.ly/379yrMA
 - [ ] jedna warstwa docieplająca
 - [ ] prosta kosmetyczka
 - [ ] bielizna do spania
-- [x] czapka https://bit.ly/2pgMLl8
-- [x] skarpety x2 https://bit.ly/2rMyEVL
+- [x] Mütze https://bit.ly/2pgMLl8
+- [x] Socken x2 https://bit.ly/2rMyEVL
+
+- [x] Händy, Ladegerät, Powerbank
 
 ## Dachzelt Variante
 
 - [ ] Kühlbox (12V und 230V)
+- [x] Campinglampe (2)
+- [X] Batterien (2)
 
 
 - [ ] Teller (Papier), Becher, Besteck
