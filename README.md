@@ -2,6 +2,7 @@
 
 ## Minimum
 
+- [ ] Rücksack https://bit.ly/2Xdh0Gm
 - [x] Messer, Taschenmesser
 - [x] Kompass https://bit.ly/2OjyxbE
 - [x] Feuerstahl / Feuerzeug / Anzünder https://bit.ly/2Xi23m8
@@ -12,9 +13,8 @@
 - [ ] chusta wielufunkcyjna https://bit.ly/2NR2uRE
 
 - [ ] Zelt / Tarp / Biwi https://bit.ly/2QlTV2B
-- [x] śpiwór https://bit.ly/2NPchYs
-- [ ] mata izolacyjna https://bit.ly/2Kpq0Tx
-- [ ] plecak https://bit.ly/2Xdh0Gm
+- [x] Schlafsack https://bit.ly/2NPchYs
+- [ ] Isomatte https://bit.ly/2Kpq0Tx
 
 - [x] Wasserflasche(n) (2l) https://bit.ly/2NS1AEx
 - [ ] Becher
