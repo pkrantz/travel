@@ -21,7 +21,7 @@
 
 ### Essen
 
-- [x] Wasserflasche(n) (2l) https://bit.ly/2NS1AEx
+- [x] 1l Wasserflasche (x2) https://bit.ly/2NS1AEx
 - [x] Becher, Topf, Pfanne
 - [ ] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
 - [ ] Löffel https://bit.ly/2CJPHK6
@@ -33,12 +33,12 @@
 - [x] Zahnbürste, Zahnpasta, Mundwasser, Zahnseide
 - [ ] Nachtwäsche / Schlafanzug
 - [x] Mütze https://bit.ly/2pgMLl8
-- [x] Socken x2 https://bit.ly/2rMyEVL
+- [x] Socken (x2) https://bit.ly/2rMyEVL
 
 ## Dachzelt Variante
 
 - [x] Bettwäsche, Betttuch, Stillkissen
-- [x] Campinglampe (2)
+- [x] Campinglampe (x2)
 - [x] Batterien
 - [x] Stuhl
 - [x] Picknickdecke
@@ -47,15 +47,15 @@
 
 - [ ] Kühlbox (12V und 230V)
 - [ ] Teller (Papier), Becher, Besteck
-- [x] Thermosflasche (2)
+- [x] Thermosflasche (x2)
 - [x] Papierhandtücher
 
 ### Hygiene
 
-- [ ] Wasserkanister, 2 x 5l Wasserflasche
+- [ ] Wasserkanister, 5l Wasserflasche (x2)
 - [x] Toilettenpapier (feucht)
 - [x] Duschgel, Flip flops
-- [x] Desinfektionsmittel, Schutzmasken (2)
+- [x] Desinfektionsmittel, Schutzmasken (x2)
 
 ### Spielen
 
