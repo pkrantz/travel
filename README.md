@@ -50,6 +50,7 @@
 - [x] Thermosflasche (x2)
 - [x] Papierhandtücher
 - [ ] Spülmittel (biologisch abbaubar)
+- [x] Müllsack
 
 ### Hygiene
 
