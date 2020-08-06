@@ -32,18 +32,17 @@
 
 ## Dachzelt Variante
 
-- [ ] Bettwäsche, Betttuch, Stillkissen
+- [x] Bettwäsche, Betttuch, Stillkissen
 - [ ] Wasserkanister
 - [x] Campinglampe (2)
-- [X] Batterien
-- [ ] Stuhl
-- [ ] Picknickdecke
+- [x] Batterien
+- [x] Stuhl
+- [x] Picknickdecke
 
 ### Essen
 
 - [ ] Kühlbox (12V und 230V)
 - [ ] Teller (Papier), Becher, Besteck
-- [ ] 
 - [x] Thermosflasche (2)
 - [x] Papierhandtücher
 - [x] 
@@ -59,4 +58,4 @@
 
 ### Spielen
 
-- [ ] Badminton, Rugby, Wer hat die vier
+- [x] Badminton, Rugby, Wer hat die vier
