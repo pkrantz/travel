@@ -13,7 +13,7 @@
 - [ ] chusta wielufunkcyjna https://bit.ly/2NR2uRE
 - [x] Händy, Ladegerät, Powerbank
 
-### Schlafen
+### Unterkunft
 
 - [ ] Zelt / Tarp / Biwi https://bit.ly/2QlTV2B
 - [x] Schlafsack https://bit.ly/2NPchYs
@@ -22,7 +22,7 @@
 ### Essen
 
 - [x] Wasserflasche(n) (2l) https://bit.ly/2NS1AEx
-- [x] Becher, Becher zum Kochen (zusätzlich)
+- [x] Becher, Topf, Pfanne
 - [ ] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
 - [ ] Löffel https://bit.ly/2CJPHK6
 
@@ -38,7 +38,6 @@
 ## Dachzelt Variante
 
 - [x] Bettwäsche, Betttuch, Stillkissen
-- [ ] Wasserkanister
 - [x] Campinglampe (2)
 - [x] Batterien
 - [x] Stuhl
@@ -50,16 +49,13 @@
 - [ ] Teller (Papier), Becher, Besteck
 - [x] Thermosflasche (2)
 - [x] Papierhandtücher
-- [x] 
 
 ### Hygiene
 
+- [ ] Wasserkanister
 - [x] Toilettenpapier (feucht)
-- [x] Duschgel
-- [x] Flip flops
-- [x] Desinfektionsmittel
-- [x] Schutzmasken (2)
-- [ ] 
+- [x] Duschgel, Flip flops
+- [x] Desinfektionsmittel, Schutzmasken (2)
 
 ### Spielen
 
