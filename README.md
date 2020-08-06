@@ -52,7 +52,7 @@
 
 ### Hygiene
 
-- [ ] Wasserkanister
+- [ ] Wasserkanister, 2 x 5l Wasserflasche
 - [x] Toilettenpapier (feucht)
 - [x] Duschgel, Flip flops
 - [x] Desinfektionsmittel, Schutzmasken (2)
