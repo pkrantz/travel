@@ -11,6 +11,7 @@
 - [ ] Reparaturset https://bit.ly/358wTAF
 - [x] Paracord Schnur 10m https://bit.ly/2Qp0IbV
 - [ ] chusta wielufunkcyjna https://bit.ly/2NR2uRE
+- [x] Händy, Ladegerät, Powerbank
 
 ### Schlafen
 
@@ -33,8 +34,6 @@
 - [ ] Nachtwäsche / Schlafanzug
 - [x] Mütze https://bit.ly/2pgMLl8
 - [x] Socken x2 https://bit.ly/2rMyEVL
-
-- [x] Händy, Ladegerät, Powerbank
 
 ## Dachzelt Variante
 
