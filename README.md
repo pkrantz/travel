@@ -6,15 +6,15 @@
 - kompas https://bit.ly/2OjyxbE
 - zestaw do rozpalania ognia https://bit.ly/2Xi23m8
 - latarka czołowa https://bit.ly/2NMDRFB
-- apteczka https://bit.ly/2rOhPK7
-- zestaw naprawczy https://bit.ly/358wTAF
+- [x] apteczka https://bit.ly/2rOhPK7
+- [x] zestaw naprawczy https://bit.ly/358wTAF
 - 10m sznurka https://bit.ly/2Qp0IbV
-- chusta wielufunkcyjna https://bit.ly/2NR2uRE
+- [x] chusta wielufunkcyjna https://bit.ly/2NR2uRE
 
-- schronienie https://bit.ly/2QlTV2B
+- [x] schronienie https://bit.ly/2QlTV2B
 - śpiwór https://bit.ly/2NPchYs
-- mata izolacyjna https://bit.ly/2Kpq0Tx
-- plecak https://bit.ly/2Xdh0Gm
+- [x] mata izolacyjna https://bit.ly/2Kpq0Tx
+- [x] plecak https://bit.ly/2Xdh0Gm
 
 - Wasserflasche(n) (2l) https://bit.ly/2NS1AEx
 - Becher
