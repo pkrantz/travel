@@ -3,15 +3,15 @@
 ## Minimum
 
 - [x] Messer, Taschenmesser
-- [x] kompas https://bit.ly/2OjyxbE
-- [x] zestaw do rozpalania ognia https://bit.ly/2Xi23m8
-- [x] latarka czołowa https://bit.ly/2NMDRFB
+- [x] Kompass https://bit.ly/2OjyxbE
+- [x] Feuerstahl / Feuerzeug / Anzünder https://bit.ly/2Xi23m8
+- [x] Stirnlampe https://bit.ly/2NMDRFB
 - [ ] apteczka https://bit.ly/2rOhPK7
-- [ ] zestaw naprawczy https://bit.ly/358wTAF
-- [x] 10m sznurka https://bit.ly/2Qp0IbV
+- [ ] Reparaturset https://bit.ly/358wTAF
+- [x] Paracord Schnur 10m https://bit.ly/2Qp0IbV
 - [ ] chusta wielufunkcyjna https://bit.ly/2NR2uRE
 
-- [ ] schronienie https://bit.ly/2QlTV2B
+- [ ] Zelt / Tarp / Biwi https://bit.ly/2QlTV2B
 - [x] śpiwór https://bit.ly/2NPchYs
 - [ ] mata izolacyjna https://bit.ly/2Kpq0Tx
 - [ ] plecak https://bit.ly/2Xdh0Gm
