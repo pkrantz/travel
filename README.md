@@ -10,7 +10,7 @@
 - [ ] Erste-Hilfe-Kasten, Medikamente https://bit.ly/2rOhPK7
 - [ ] Reparaturset https://bit.ly/358wTAF
 - [x] Paracord Schnur 10m https://bit.ly/2Qp0IbV
-- [ ] chusta wielufunkcyjna https://bit.ly/2NR2uRE
+- [ ] Multifunktionstuch https://bit.ly/2NR2uRE
 - [x] Händy, Ladegerät, Powerbank
 
 ### Unterkunft
@@ -21,10 +21,10 @@
 
 ### Essen
 
-- [x] 1l Wasserflasche (x2) https://bit.ly/2NS1AEx
+- [x] 1l Wasserflasche (x2)
 - [x] Becher, Topf, Pfanne
 - [ ] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
-- [ ] Löffel https://bit.ly/2CJPHK6
+- [ ] Besteck
 
 ### Kleidung
 
@@ -32,8 +32,8 @@
 - [ ] jedna warstwa docieplająca
 - [x] Zahnbürste, Zahnpasta, Mundwasser, Zahnseide
 - [ ] Nachtwäsche / Schlafanzug
-- [x] Mütze https://bit.ly/2pgMLl8
-- [x] Socken (x2) https://bit.ly/2rMyEVL
+- [x] Mütze
+- [x] Socken (x2)
 
 ## Dachzelt Variante
 
@@ -49,14 +49,16 @@
 - [ ] Teller (Papier), Becher, Besteck
 - [x] Thermosflasche (x2)
 - [x] Papierhandtücher
+- [ ] Spülmittel (biologisch abbaubar)
 
 ### Hygiene
 
 - [ ] Wasserkanister, 5l Wasserflasche (x2)
 - [x] Toilettenpapier (feucht)
-- [x] Duschgel, Flip flops
+- [x] Duschgel (biologisch abbaubar), Flip flops
 - [x] Desinfektionsmittel, Schutzmasken (x2)
 
 ### Spielen
 
+- [x] Badehose
 - [x] Badminton, Rugby, Wer hat die vier
