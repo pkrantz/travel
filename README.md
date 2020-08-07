@@ -23,7 +23,7 @@
 
 - [x] 1l Wasserflasche (x2)
 - [x] Becher, Topf, Pfanne
-- [ ] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
+- [x] Kocher (Gas / Alkohol / Holz) https://bit.ly/2qYkP5X
 - [ ] Besteck
 
 ### Kleidung
@@ -45,7 +45,7 @@
 
 ### Essen
 
-- [ ] Kühlbox (12V und 230V)
+- [x] Kühlbox (12V und 230V)
 - [ ] Teller (Papier), Becher, Besteck
 - [x] Thermosflasche (x2)
 - [x] Papierhandtücher
@@ -54,7 +54,7 @@
 
 ### Hygiene
 
-- [ ] Wasserkanister, 5l Wasserflasche (x2)
+- [x] Wasserkanister, 5l Wasserflasche (x2)
 - [x] Toilettenpapier (feucht)
 - [x] Duschgel (biologisch abbaubar), Flip flops
 - [x] Desinfektionsmittel, Schutzmasken (x2)
