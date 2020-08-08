@@ -39,17 +39,17 @@
 
 - [x] Bettwäsche, Betttuch, Stillkissen
 - [x] Campinglampe (x2)
-- [x] Batterien
+- [x] Batterien, Ladegerät
 - [x] Stuhl
 - [x] Picknickdecke
 
 ### Essen
 
 - [x] Kühlbox (12V und 230V)
-- [ ] Teller (Papier), Becher, Besteck
+- [x] Teller (Papier), Becher, Besteck
 - [x] Thermosflasche (x2)
 - [x] Papierhandtücher
-- [ ] Spülmittel (biologisch abbaubar)
+- [x] Spülmittel (biologisch abbaubar)
 - [x] Müllsack
 
 ### Hygiene
